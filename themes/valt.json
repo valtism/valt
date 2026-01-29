@@ -7,9 +7,33 @@
       "name": "Valt",
       "appearance": "dark",
       "style": {
+        "surface.background": "#1f1e23",
+        "background": "#17151a",
+        "editor.background": "#17151a",
+        "elevated_surface.background": "#1f1e23",
+        "panel.background": "#1f1e23",
+        "panel.overlay_background": "#1f1e23",
+        "panel.overlay_hover": "#17151a",
+        "editor.gutter.background": "#17151a",
+        "editor.highlighted_line.background": "#1f1e23",
+        "editor.subheader.background": "#1f1e23",
+        "status_bar.background": "#17151a",
+        "title_bar.background": "#17151a",
+        "toolbar.background": "#17151a",
+        "element.background": "#17151a",
+        "tab_bar.background": "#1f1e23",
+        "tab.inactive_background": "#1f1e23",
+        "tab.active_background": "#17151a",
+        "terminal.background": "#17151a",
+
         "editor.document_highlight.read_background": "#74ade81a",
         "editor.document_highlight.write_background": "#555a6366",
         "link_text.hover": "#5c78e2",
+        "panel.focused_border": "#7964a4",
+        "drop_target.background": "#7964a433",
+        "element.selected": "#736e8144",
+        "element.hover": "#736e8122",
+        "text.accent": "#8fc2fd",
 
         "modified": "#e5b473",
         "modified.border": "#e5b47340",
@@ -38,6 +62,15 @@
         "terminal.ansi.magenta": "#c5b0f6",
         "terminal.ansi.cyan": "#66d0df",
         "terminal.ansi.white": "#c5c8c6",
+
+        "terminal.ansi.bright_black": "#2e2e2e",
+        "terminal.ansi.bright_red": "#ffb5aa",
+        "terminal.ansi.bright_yellow": "#f6c483",
+        "terminal.ansi.bright_green": "#c8d78c",
+        "terminal.ansi.bright_blue": "#a9d2ff",
+        "terminal.ansi.bright_magenta": "#d4c2ff",
+        "terminal.ansi.bright_cyan": "#77e0f0",
+        "terminal.ansi.bright_white": "#d7d7d7",
 
         "syntax": {
           "- Colors are defined as -": {},
@@ -146,6 +179,11 @@
           },
           "punctuation": {
             "color": "#c5c5c5"
+          },
+
+          "- Dimish Gray -": {},
+          "comment.doc": {
+            "color": "#888888"
           },
 
           "- Dim Gray -": {},
