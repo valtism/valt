@@ -1,6 +1,6 @@
 id = "valt"
 name = "Valt"
-version = "0.0.1"
+version = "1.0.0"
 schema_version = 1
 authors = ["Dan Wood <daniel4wood@icloud.com>"]
 description = "a nice theme"
