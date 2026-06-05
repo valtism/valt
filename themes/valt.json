@@ -28,6 +28,7 @@
 
         "editor.document_highlight.read_background": "#74ade81a",
         "editor.document_highlight.write_background": "#555a6366",
+        "search.match_background": "#cb91cb66",
         "link_text.hover": "#5c78e2",
         "panel.focused_border": "#7964a4",
         "drop_target.background": "#7964a433",
@@ -53,6 +54,9 @@
         "error": "#ed7569",
         "error.border": "#f7a59940",
         "error.background": "#f7a59910",
+        "deleted": "#ed7569",
+        "deleted.border": "#f7a59940",
+        "deleted.background": "#f7a59910",
 
         "terminal.ansi.black": "#1e1e1e",
         "terminal.ansi.red": "#f8a59a",
